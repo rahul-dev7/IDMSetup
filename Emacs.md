@@ -5,4 +5,5 @@ How to Download and Install Emacs on Windows 10? - TechMeSpot - https://www.yout
 - Windows - main GNU FTP server - http://ftp.gnu.org/gnu/emacs/windows/emacs-26/ - emacs-26.3-x86_64.zip
 - unzip download zip.
 - create floder that name emacs
+- unzip floder paste in c:/emacs
 -  
